@@ -12,6 +12,6 @@ attachments:
     name: "Appendix"
 due_event:
     type: due
-    date: 2026-03-02T22:59:00+1:00
+    date: 2026-03-02T23:59:00+1:00
     description: 'Lab #2 deadline'
 ---
