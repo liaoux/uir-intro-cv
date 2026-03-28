@@ -8,10 +8,10 @@ The final project is **mandatory**. It replaces the midterm exam and counts for 
 
 ## Important rules
 
-- **Group size:** minimum **2** maximum **3 students**.
+- **Group size:** minimum **2**, maximum **3 students**.
 - **Groups must be from the same lab section.** Mixing sections is **not allowed**.
 - **Absence on defense day = zero.** No make-up defenses.
-- Defense takes place during your **regular lab session**. The schedule will be posted.
+- Defense takes place during your **regular lab session**.
 
 ## Project choices
 
@@ -35,11 +35,10 @@ Submit a **GitHub repository** with:
 
 The repository link must be shared **publicly** on Connect UIR before your defense slot.
 
-
 ## Deadlines
 
 | Deadline | Action |
 |----------|--------|
-| **[insert date]** | Submit group & project choice using the link below |
-| **[insert date – 2 weeks later]** | Defense period (during lab sessions) |
+| **April 5** | Submit group & project choice using the link above |
+| **April 13–18** | Defense period (during your regular lab session) |
 | **Before your defense slot** | Submit GitHub repository link on Connect UIR |
