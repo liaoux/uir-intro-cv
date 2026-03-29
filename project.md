@@ -15,30 +15,48 @@ The final project is **mandatory**. It replaces the midterm exam and counts for 
 
 ## Project choices
 
-You can choose from six projects. Each description clearly separates concepts from the course and new concepts you will explore independently.
+Choose from six projects, ranging from accessible to expert level. Each project has a **maximum mark cap** that reflects its difficulty — a perfect expert submission will always outscore a perfect accessible one. We encourage you to reach.
+
+| Project | Topic | Difficulty | Max mark |
+|---------|-------|------------|----------|
+| Project 2 | Instagram-Style Filters | Accessible | 14/20 |
+| Project 1 | Document Scanner | Accessible | 15/20 |
+| Project 3 | Barcode & QR Code Scanner | Intermediate | 16/20 |
+| Project 4 | Panorama Stitcher | Challenging | 18/20 |
+| Project 5 | License Plate Deblurring | Challenging | 18/20 |
+| Project 6 | Brain Tumor Segmentation | Expert | 20/20 |
+
+
+Each description clearly separates concepts from the course and new concepts you will explore independently.
 
 📄 **[Project descriptions (PDF)](/static_files/project/projects.pdf)**
 
 ## Group registration
 
-Submit your group and project choice here (Form):
+Submit your group and project choice using the form below — **one entry per group**.
 
-📝 **[Form](https://docs.google.com/forms/d/e/1FAIpQLSdqkzRP1wAaM1Oogw4ZWohq-n61wkbwJ5B7D-dcPwGz6tAv9Q/viewform)** – one entry per group.
+📝 **[Registration Form](https://forms.cloud.microsoft/r/UnvQqnDUw9)**
+
+## Project submission
+
+Once complete, submit your GitHub repository link using the form below — **one entry per group**.
+
+📝 **[Submission Form](https://forms.cloud.microsoft/r/yQbuw3hsLR)**
 
 ## Deliverables
 
-Submit a **GitHub repository** with:
+Submit a **GitHub repository** containing:
 
-- `data/` – input images (with a short `README.txt`).
-- `code/` – one Jupyter notebook (`.ipynb`) containing a clean, modular, fully runnable pipeline.
-- `report.pdf` – 2–4 pages describing your approach, challenges, results, and references to concepts.
+- `data/` – input images with a short `README.txt` describing the dataset.
+- `code/` – one Jupyter notebook (`.ipynb`): clean, modular, and fully runnable from start to finish.
+- `report.pdf` – 2–4 pages covering your approach, challenges, results, and references to course concepts.
 
-The repository link must be shared **publicly** on Connect UIR before your defense slot.
+The repository must be **public**, and the link submitted before your defense slot.
 
 ## Deadlines
 
-| Deadline | Action |
-|----------|--------|
-| **April 5** | Submit group & project choice using the link above |
-| **April 13–18** | Defense period (during your regular lab session) |
-| **Before your defense slot** | Submit GitHub repository link on Connect UIR |
+| Date | Action |
+|------|--------|
+| **April 5** | Submit group & project choice via the Registration Form |
+| **Before your defense slot** | Submit GitHub repository link via the Submission Form |
+| **April 13–18** | Defense period — during your regular lab session |
