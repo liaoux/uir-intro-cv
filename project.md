@@ -19,13 +19,11 @@ Choose from six projects, ranging from accessible to expert level. Each project 
 
 | Project | Topic | Difficulty | Max mark |
 |---------|-------|------------|----------|
-| Project 2 | Instagram-Style Filters | Accessible | 14/20 |
-| Project 1 | Document Scanner | Accessible | 15/20 |
-| Project 3 | Barcode & QR Code Scanner | Intermediate | 16/20 |
-| Project 4 | Panorama Stitcher | Challenging | 18/20 |
-| Project 5 | License Plate Deblurring | Challenging | 18/20 |
-| Project 6 | Brain Tumor Segmentation | Expert | 20/20 |
-
+| Project 2 | Instagram-Style Filters | Accessible | 16/20 |
+| Project 1 | Document Scanner | Accessible | 16/20 |
+| Project 3 | Barcode & QR Code Scanner | Intermediate | 18/20 |
+| Project 4 | Panorama Stitcher | Intermediate | 18/20 |
+| Project 5 | License Plate Deblurring | Challenging | 20/20 |
 
 Each description clearly separates concepts from the course and new concepts you will explore independently.
 
@@ -60,3 +58,14 @@ The repository must be **public**, and the link submitted before your defense sl
 | **April 5** | Submit group & project choice via the Registration Form |
 | **Before your defense slot** | Submit GitHub repository link via the Submission Form |
 | **April 13–18** | Defense period — during your regular lab session |
+
+## Defense day
+The defense takes place during your **regular lab session** in the week of **April 13–18**. It is **mandatory** — absence results in a zero with no make-up.
+
+During the defense you will be expected to:
+- **Present your work** — walk through your approach, the challenges you faced, and the results you obtained.
+- **Showcase your code live** — run your notebook or application from start to finish, demonstrating that it works on your own images.
+- **Answer questions** — each group member will be questioned individually on the implementation and the underlying concepts. Every member must be able to explain any part of the project.
+- **Demonstrate your GUI** (if applicable) — load an image, apply your pipeline, and show the output interactively.
+
+Grades may differ between group members based on individual understanding shown during the defense.
