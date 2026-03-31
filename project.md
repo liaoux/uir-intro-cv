@@ -19,7 +19,7 @@ The final project is **mandatory**. It replaces the midterm exam and counts for 
 
 ## Project choices
 
-Choose from six projects, ranging from accessible to expert level. Each project has a **maximum mark cap** that reflects its difficulty — a perfect expert submission will always outscore a perfect accessible one. We encourage you to reach.
+Choose from five projects, ranging from accessible to expert level. Each project has a **maximum mark cap** that reflects its difficulty — a perfect expert submission will always outscore a perfect accessible one. We encourage you to reach.
 
 | Project | Topic | Difficulty | Max mark |
 |---------|-------|------------|----------|
