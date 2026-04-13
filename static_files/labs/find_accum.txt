@@ -1,0 +1,26 @@
+def find_accumulator_peaks(accumulator, threshold_ratio=0.5, nms_size=10):
+    """
+    Find peaks in the Hough accumulator using thresholding + NMS.
+
+    Args:
+        accumulator (np.ndarray): The accumulator array.
+        threshold_ratio (float): Fraction of the max vote count to use as threshold.
+        nms_size (int): Size of the NMS suppression window.
+
+    Returns:
+        peaks (list of (rho_idx, theta_idx)): Indices of detected peaks.
+    """
+    threshold = threshold_ratio * accumulator.max()
+
+    # Dilate to find local maxima (same NMS idea as in Lab 4)
+    kernel = np.ones((nms_size, nms_size), dtype=np.uint8)
+    dilated = cv2.dilate(accumulator.astype(np.float32), kernel)
+    is_local_max = (accumulator == dilated) & (accumulator > threshold)
+
+    # Return as list of (rho_idx, theta_idx)
+    rho_idxs, theta_idxs = np.where(is_local_max)
+    peaks = list(zip(rho_idxs.tolist(), theta_idxs.tolist()))
+
+    # Sort by vote count descending
+    peaks.sort(key=lambda p: accumulator[p[0], p[1]], reverse=True)
+    return peaks

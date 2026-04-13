@@ -7,8 +7,8 @@ attachments:
     name: "Starter Code"
   - file: /static_files/labs/lab5_hough-transform.pdf
     name: "Lab document"
-# - file: /static_files/labs/lab2_CV_appendix.pdf
-#   name: "Appendix"
+  - file: /static_files/labs/find_accum.txt
+    name: "Fin Accum Peaks"
 due_event:
     type: due
     date: 2026-04-18T23:59:00+1:00
