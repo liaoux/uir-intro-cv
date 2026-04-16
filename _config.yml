@@ -3,7 +3,7 @@ course_name: Introduction to Computer Vision
 course_description: "Introduction to Computer Vision provides a comprehensive introduction to fundamental techniques that enable computers to extract, process, and interpret information from digital images. The course covers core image processing methods including point processing for brightness and contrast adjustment, linear shift invariant systems and convolution for filtering operations, various image filtering techniques (smoothing, sharpening, noise reduction), and Fourier Transform for frequency domain analysis, and much more ..."
 course_semester: "Spring 2026"
 
-baseurl: "/uir-cv-2026" # the subpath of your site, e.g. /blog/
+baseurl: "/uir-intro-cv" # the subpath of your site, e.g. /blog/
 url: "http://liaoux.github.io/" # the base hostname & protocol for your site
 
 schoolname: "International University of Rabat"
